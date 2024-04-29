@@ -1,0 +1,19 @@
+{
+  "name": "assignment-15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "modules",
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "undici-types": "^5.26.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
